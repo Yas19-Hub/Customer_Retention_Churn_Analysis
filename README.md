@@ -1,5 +1,11 @@
 Customer Retention & Churn Analysis Dashboard using Python and Power BI
-# 📊 Customer Retention & Churn Analysis Dashboard
+<h1 align="center">
+📊 Customer Retention & Churn Analysis Dashboard
+</h1>
+
+<p align="center">
+Future Interns • Data Science & Analytics • Task 2
+</p>
 
 > **Future Interns – Data Science & Analytics | Task 2**
 > ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
