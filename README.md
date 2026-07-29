@@ -50,7 +50,8 @@ The RavenStack SaaS dataset consists of:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Screenshot 2026-07-29 135457.png)
+
 
 ## 📊 Key KPIs
 
