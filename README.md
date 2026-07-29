@@ -60,7 +60,17 @@ The RavenStack SaaS dataset consists of:
 - DevTools and FinTech have a strong customer presence.
 - Support tickets are distributed across all priority levels.
 - Feature usage highlights the platform's most valuable capabilities.
+  
+🚀 Future Improvements
+Churn prediction using Machine Learning
+Customer segmentation
+Revenue forecasting
+Real-time dashboard integration
+👨‍💻 Author
 
+Yash Gaonkar
+LinkedIn: https://www.linkedin.com/in/yash-gaonkar-4a173031a
+GitHub: https://github.com/Yas19-Hub
 ## 📁 Project Structure
 
 ```text
