@@ -28,6 +28,7 @@ This project analyzes customer retention and churn using the RavenStack SaaS dat
 - Build an interactive Power BI dashboard
 
 ## 🛠️ Tools & Technologies
+
 - 🐍 Python
 - 📊 Power BI
 - 📈 DAX
