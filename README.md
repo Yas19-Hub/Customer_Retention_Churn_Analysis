@@ -15,7 +15,6 @@ Future Interns • Data Science & Analytics • Task 2
 ![DAX](https://img.shields.io/badge/DAX-Power%20BI-blue?style=for-the-badge)
 
 ## 📌 Project Overview
-
 This project analyzes customer retention and churn using the RavenStack SaaS dataset. The dashboard provides insights into customer behavior, subscription revenue, churn reasons, support performance, and feature usage using Python and Power BI.
 
 ## 🎯 Objectives
